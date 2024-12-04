@@ -30,7 +30,7 @@ The project uses four datasets:
 ## How to Use the Queries
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Blow4naf>/TechMart_Sales_Analysis.git
+   git clone https://github.com/<Blow4naf>/-Week3_CaseStudy-.git
    
 # -Week3_CaseStudy-
 TechMart_Sales_Ananlysis
